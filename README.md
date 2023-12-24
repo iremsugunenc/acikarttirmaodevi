@@ -10,3 +10,4 @@ Kazananın numarası ve teklifi ekrana yazdırılır.
 typedef, mevcut bir veri tipine bir isim vermek için kullanılan C dilindeki bir anahtar kelimedir. Bu, özellikle karmaşık veri tiplerini daha anlaşılır ve kısa isimlerle kullanmak için kullanışlıdır.
 struct C dilinde birleşik veri tipi oluşturmak için kullanılan bir anahtar kelimedir. 
 struct ifadesi farklı veri tiplerini tek bir veri tipi altında gruplandırmak için kullanılır. Bir struct tanımlandığında, bir veya daha fazla değişkeni içerebilir.
+Açık artırma uygulamasında struct ve typedef kullanımı, katılımcı bilgilerini gruplamak ve daha anlaşılır bir şekilde kullanmak için oldukça yararlıdır.
