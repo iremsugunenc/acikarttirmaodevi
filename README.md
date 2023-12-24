@@ -1,4 +1,4 @@
-# acikarttirmaodevi
+# Açık arttırma
  Açık artırma uygulaması açık artırmaya katılan katılımcıların tekliflerini alır, en yüksek teklifi ve kazananı belirler ve bu bilgileri ekrana yazdırır.Kazananın teklifi aynı zamanda ödeme olarak kabul edilmiştir. 
 # Kullanım Şekli
 Kullanıcıya, açık artırmaya katılan kişi sayısını girmesi için bir mesaj gösterilir.
